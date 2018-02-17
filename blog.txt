@@ -2,4 +2,6 @@ My Favourites
 My Music
 My Videos
 My Pictures
-My name is Suraj
+<<<<<<< HEAD
+Our name is Suraj & Balaji
+>>>>>>> 4c05f37f63b3af1249950dc87d7c5875ef51fb08
